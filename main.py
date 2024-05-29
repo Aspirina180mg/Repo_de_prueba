@@ -1,7 +1,2 @@
 print("Hola Mundo")
-'''
-texto
-texto
-texto
-texto
-'''
+print("este programa funciona")
